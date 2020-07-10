@@ -1,5 +1,11 @@
 # docker-cakephp4
 
+mysql : 5.7.30
+
+nginx : 1.18.0
+
+php : 7.4.7
+
 --
 # 使い方 #
 
